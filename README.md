@@ -17,7 +17,7 @@ Microsoft SQL Server Management Studio
 <img width="1329" height="688" alt="image" src="https://github.com/user-attachments/assets/26d7ea1c-a08f-4bfd-84e0-e0dcde637f4d" />
 
 #### Contact:
-Reach out creator on: 
+Reach out to creator on: 
 
 1. LinkedIN:
    https://www.linkedin.com/in/bhagyashri-ashtekar-56346732a/
